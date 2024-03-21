@@ -68,7 +68,7 @@ MemoRise 는 `물체인식` 을 기반으로 물체에 `메모`를 남겨 편하
 <b>Backend</b>
 
 - 김수연 : API 구현 (회원, 물체, 파일 서버, 그룹) / DB 설계
-- 이준용 :
+- 이준용 : AioHTTP 서버 구축 / YOLO v8, Efficientnet 활용 영상처리
 - 최경인 : AWS 서버 구축 / REST API 구현 (메모, 태그) / DB 설계
 
 <br/>
